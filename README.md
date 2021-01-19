@@ -23,6 +23,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 - "npm install" to install all the dependencies that help the app running.
 
+## Configuration
+
+The project runs out of the box with default settings. You can include a .env file in your project root to configure settings.
+
 ## Running the tests
 
 - "npm run test"
